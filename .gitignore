@@ -1,0 +1,6 @@
+.Rproj.user
+.Rhistory
+.RData
+data-raw/flights
+data-raw/planes
+data-raw/weather

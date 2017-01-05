@@ -1,0 +1,20 @@
+Package: seaflights15
+Title: Airline on-time data for all flights departing or arriving SEA in 2015.
+    Also includes useful 'metadata' on airlines, airports, weather, and planes. This
+    is a data package created by groundcontrol
+Version: 0.1.0
+Authors@R: person("Jeffrey", "Arnold", email = "jeffrey.arnold@gmail.com",
+                   role = c("aut", "cre"))
+Depends:
+    R (>= 3.3.2)
+Imports:
+    tibble
+Suggests:
+    dplyr  
+License: CC0
+Encoding: UTF-8
+LazyData: true
+Description: Airline on-time data for all flights departing or arriving SEA
+    in 2015. Also includes useful 'metadata' on airlines, airports, weather, and
+    planes. This is a data package created by groundcontrol.
+RoxygenNote: 5.0.1
