@@ -11,3 +11,11 @@ To help understand what causes delays, it also includes a number of other useful
 This package was inspired was inspired by [nycflights13](https://github.com/hadley/nycflights13), 
 and built with [groundcontrol](https://github.com/jrnold/groundcontrol) which generates R data-only packages like **nycflights** for
 the user's choice of aiports and years.
+
+## Install
+
+This package is not on CRAN.
+You can install it using [devtools](https://cran.r-project.org/package=devtools),
+```r
+devtools::install_github("jrnold/seaflights15")
+```
